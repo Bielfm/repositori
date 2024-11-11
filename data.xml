@@ -11,6 +11,11 @@
             <DESCRIPCIO>Olives verdes i negres amb espècies.</DESCRIPCIO>
             <PREU>2.00</PREU>
         </PLAT>
+        <PLAT>
+            <NOM>Calamars</NOM>
+            <DESCRIPCIO>Calamars a la romana amb llimona.</DESCRIPCIO>
+            <PREU>7.00</PREU>
+        </PLAT>
     </GRUP>
     <GRUP>
         <NOM>Principals</NOM>
@@ -23,6 +28,29 @@
             <NOM>Entrecot</NOM>
             <DESCRIPCIO>Entrecot de vedella a la brasa.</DESCRIPCIO>
             <PREU>15.00</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Bacallà</NOM>
+            <DESCRIPCIO>Bacallà gratinat amb allioli i tomàquets confitats.</DESCRIPCIO>
+            <PREU>12.00</PREU>
+        </PLAT>
+    </GRUP>
+    <GRUP>
+        <NOM>Postres</NOM>
+        <PLAT>
+            <NOM>Flam</NOM>
+            <DESCRIPCIO>Flam casolà de vainilla amb caramel.</DESCRIPCIO>
+            <PREU>3.00</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Profiteroles</NOM>
+            <DESCRIPCIO>Profiteroles amb xocolata calenta.</DESCRIPCIO>
+            <PREU>4.00</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Tiramisú</NOM>
+            <DESCRIPCIO>Tiramisú tradicional italià amb mascarpone.</DESCRIPCIO>
+            <PREU>5.00</PREU>
         </PLAT>
     </GRUP>
 </CARTA>
